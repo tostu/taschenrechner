@@ -1,0 +1,6 @@
+/home/torge/Projects/Taschenrechner/Taschenrechner/bin/Debug/Taschenrechner.exe
+/home/torge/Projects/Taschenrechner/Taschenrechner/bin/Debug/Taschenrechner.pdb
+/home/torge/Projects/Taschenrechner/Taschenrechner/obj/x86/Debug/Taschenrechner.csproj.AssemblyReference.cache
+/home/torge/Projects/Taschenrechner/Taschenrechner/obj/x86/Debug/Taschenrechner.csproj.CoreCompileInputs.cache
+/home/torge/Projects/Taschenrechner/Taschenrechner/obj/x86/Debug/Taschenrechner.exe
+/home/torge/Projects/Taschenrechner/Taschenrechner/obj/x86/Debug/Taschenrechner.pdb

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{61540E0A-2C7A-416F-BE95-F16C907BC209}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Taschenrechner/MainWindow.cs">
+    <Files>
+      <File FileName="Taschenrechner/Program.cs" Line="1" Column="1" />
+      <File FileName="Taschenrechner/Calculation.cs" Line="23" Column="28" />
+      <File FileName="Taschenrechner/MainWindow.cs" Line="54" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Taschenrechner" expanded="True">
+            <Node name="Taschenrechner" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Taschenrechner PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
